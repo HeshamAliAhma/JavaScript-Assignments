@@ -8,7 +8,7 @@ console.log('='.repeat(Title.length))
 
 
 
-// 01:)
+// // 01:)
 
 // console.log(100 == "100"); // true
 // console.log(100 < 1000); // true
@@ -19,11 +19,10 @@ console.log('='.repeat(Title.length))
 // console.log(! ("10" === 10)); // true
 // console.log(typeof 20 != false); // true
 
-// 02:)
+// // 02:)
 
 // let num1 = 10;
 // let num2 = 20;
-
 // console.log(num1 < num2); // true
 // console.log(num2 > num1); // true
 // console.log(num1 !== num2); // true
@@ -33,7 +32,7 @@ console.log('='.repeat(Title.length))
 
 
 
-// 03:)
+// // 03:)
 
 
 // let a = 20;

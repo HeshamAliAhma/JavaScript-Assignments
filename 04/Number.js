@@ -7,6 +7,8 @@ console.log(Title)
 console.log('='.repeat(Title.length))
 
 
+// // 01:)
+
 // console.log(100_000); // 100000
 // console.log(100000); // 100000
 // console.log(5e4 + 5e4); // 100000
@@ -21,19 +23,25 @@ console.log('='.repeat(Title.length))
 // console.log(Math.floor(100000.9)); // 100000
 // console.log(Math.floor(99999.1 + 1)); // 100000
 
+
+// // 02:)
+
 // console.log((Number.MIN_SAFE_INTEGER) * -1); // 9007199254740991
+
+
+// // 03:)
 
 // console.log(Number.MAX_SAFE_INTEGER.toString().length); // 16
 
 
+// // 04:)
 
 // let myVar = "100.56789 Views";
-
 // console.log(Number.parseInt(myVar)); // 100
 // console.log(Number(Number.parseFloat(myVar).toFixed(2))); // 100.57
 
 
-
+// // 05:)
 
 // let num = 10;
 // console.log(Number.isInteger(num) + Number.isInteger(num)); // 2
